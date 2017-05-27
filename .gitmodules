@@ -1,0 +1,3 @@
+[submodule "vlaniado"]
+	path = vlaniado
+	url = https://github.com/vlaniado/pgp-keys.git
